@@ -1,17 +1,8 @@
 Hello there!!
 Here is my first React Project which is A Social Media images application!
 
-The posts are images, You can delete, share, save and download it!
-Also there is a searchBar in which you can find out your favaorate images across different categories.
-You have your profile, as well.
-You can add your post  using the plus icon!
+Full-Stack Social Media App: High-performance(Data migration), reliable, and scalable.
+Used Technologies: React.js, Tailwindcss, Sanity SQL, Sanity: Unified Content Platform.-Jest: as a unit testing library.
+This project makes use of the fantastic React.JS capabilities(Hooks, Linking & Routing, and many others) The following technologies were used: React.js and Tailwindcss for front-end development. I utilized a unified content platform (Sanity) for the back end, a data store for your photographs and their information that you can add, remove, and get.
 
-This project is done using the amazing React.JS features! Feel free to check out the code above.
-Technologies used:
-For Front-End: React.js, Tailwindcss.
-For Back-End: I used a unified content platform (Sanity) which is a data store for your images and their details in which you can add, delete and fetch them.
-
-
-![rtt](https://user-images.githubusercontent.com/95984769/210801323-d9a839ab-4f6c-44dd-b54c-ee663a122f2b.PNG)
-![rtt2](https://user-images.githubusercontent.com/95984769/210801084-c970f359-e033-4ff6-841a-312fea835f78.PNG)
-
+You may remove, share, save, and download the postings since they are photos. There is also a searchBar where you may discover your favorite photographs from many categories. You, too, have a profile. You can add your post by clicking the + sign!
